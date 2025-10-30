@@ -1,6 +1,4 @@
-============================================================
 PROJECT TITLE: Student-Teacher Booking Appointment System (AppointMe)
-============================================================
 
 ### 1. PROJECT OVERVIEW
 
